@@ -1,0 +1,27 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-image:url("b.jpg");
+    background-size:cover;
+}
+.copyright-footer{
+    bottom: 0;
+     position: fixed;
+     text-align: center;
+     background-color: cyan;
+     width: 100%;
+     line-height: 3;
+     text-shadow:5px 5px 5px darkblue ;
+ }
+ canvas{
+    border: 5px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
